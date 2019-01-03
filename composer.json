@@ -1,0 +1,20 @@
+{
+    "name": "ibunao/yii2-apidoc",
+    "description": "apidoc for yii",
+    "type": "library",
+    "keywords": ["apidoc","接口文档"],
+    "homepage": "https://github.com/echo-ding/yii-apidoc",
+    "authors": [
+        {
+            "name": "丁冉",
+            "email": "275122510@qq.com",
+            "homepage": "https://www.bunao.win"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "psr-4": { "ibunao\\apidoc": "" }
+    }
+}
